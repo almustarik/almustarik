@@ -1,6 +1,3 @@
-Love it. Here’s a **senior-level, ultra-clean, skills-forward** version that works for **Senior Frontend** *and* **Full-Stack** roles. Quiet confidence, no noise.
-senior frontend & full-stack focus
-
 ---
 
 ## Hi, I’m Al Mustarik 👋
