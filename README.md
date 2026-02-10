@@ -1,51 +1,36 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Al Mustarik 👋</h1>
-<p align="center">Software Engineer building impactful web & mobile experiences.</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/almustarik/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
-  </a>
-</p>
+Love it. Here’s a **senior-level, ultra-clean, skills-forward** version that works for **Senior Frontend** *and* **Full-Stack** roles. Quiet confidence, no noise.
+senior frontend & full-stack focus
 
 ---
 
-## 🚀 Tech Stack
+## Hi, I’m Al Mustarik 👋
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+Senior Software Engineer with 4+ years of experience building and scaling production web & mobile applications.
 
-**Backend:**  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+Frontend-focused (React, Next.js, TypeScript) with strong full-stack ownership across APIs, data, and infrastructure.
 
-**Interests:**  
-🌐 Web Development • 🤖 Machine Learning • 🧠 Artificial Intelligence
+[Portfolio](https://almustarik.vercel.app) · [LinkedIn](https://www.linkedin.com/in/almustarik) · [GitHub](https://github.com/almustarik)
 
 ---
 
-## 🌱 About Me
-- 🧑‍💻 Always learning and exploring new tech  
-- 🌍 Love travelling and discovering new cultures  
-- 🎵 Enjoy music and reading in my downtime  
+### Core Skills
+
+* **Frontend:** React, Next.js, React Native, TypeScript, Tailwind CSS
+* **UI Engineering:** Component architecture, performance optimization, accessibility
+* **State & Data:** Redux, Jotai, GraphQL, REST
+* **Backend:** Node.js, NestJS, API design
+* **Data & Infra:** PostgreSQL, MongoDB, AWS, Docker, CI/CD
 
 ---
 
-## 📊 GitHub Stats
+### Focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=almustarik&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=almustarik&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almustarik&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+* Designing scalable frontend architecture
+* Shipping high-impact features end-to-end
+* Improving performance, DX, and code quality
 
 ---
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/almustarik/)
+![Stats](https://github-readme-stats.vercel.app/api?username=almustarik\&show_icons=true\&hide_border=true)
 
-<p align="center">✨ Thanks for stopping by!</p>
+---
