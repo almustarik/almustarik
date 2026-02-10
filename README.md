@@ -28,6 +28,6 @@ Frontend-focused (React, Next.js, TypeScript) with strong full-stack ownership a
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=almustarik\&show_icons=true\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=almustarik&hide_border=true)
 
 ---
