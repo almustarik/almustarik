@@ -28,6 +28,9 @@ AWS · Docker · GitHub Actions · CI/CD
 **Testing & Quality**
 Jest · Playwright · Cypress · Automated Testing · Accessibility · Code Review
 
+**AI & Developer Tools**
+Cursor · Claude Code · OpenAI Codex · GitHub Copilot
+
 ---
 
 ### 🏗️ Engineering
@@ -40,7 +43,7 @@ Jest · Playwright · Cypress · Automated Testing · Accessibility · Code Revi
 * Improving application performance, reliability, and accessibility
 * Automating testing, CI/CD, and production workflows
 * Writing maintainable, strongly typed TypeScript
-* Debugging complex production issues and improving system reliability
+* Using AI-assisted development to improve productivity, debugging, and code quality
 
 ---
 
@@ -51,7 +54,6 @@ Jest · Playwright · Cypress · Automated Testing · Accessibility · Code Revi
 * Backend architecture and scalability
 * Event-driven and asynchronous systems
 * Production reliability and observability
-* AI-assisted software engineering
 
 ---
 
@@ -62,10 +64,6 @@ Jest · Playwright · Cypress · Automated Testing · Accessibility · Code Revi
 I care about clear architecture, strong typing, data correctness, security, performance, accessibility, and developer experience.
 
 I prefer understanding the problem first, then choosing the simplest solution that can evolve with the product.
-
----
-
-### 📊 GitHub
 
 ---
 
