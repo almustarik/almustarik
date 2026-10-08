@@ -1,33 +1,70 @@
----
+# Hi, I'm Al Mustarik 👋
 
-## Hi, I’m Al Mustarik 👋
+**Senior Software Engineer** focused on building scalable web, mobile, and backend systems with the TypeScript ecosystem.
 
-Senior Software Engineer with 4+ years of experience building and scaling production web & mobile applications.
+I work across the stack, from **frontend architecture and mobile applications to APIs, databases, real-time systems, and infrastructure**.
 
-Frontend-focused (React, Next.js, TypeScript) with strong full-stack ownership across APIs, data, and infrastructure.
-
-[Portfolio](https://almustarik.vercel.app) · [LinkedIn](https://www.linkedin.com/in/almustarik) · [GitHub](https://github.com/almustarik)
+[Portfolio](https://almustarik-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/almustarik) · [GitHub](https://github.com/almustarik)
 
 ---
 
-### Core Skills
+## 🛠️ Tech Stack
 
-* **Frontend:** React, Next.js, React Native, TypeScript, Tailwind CSS
-* **UI Engineering:** Component architecture, performance optimization, accessibility
-* **State & Data:** Redux, Jotai, GraphQL, REST
-* **Backend:** Node.js, NestJS, API design
-* **Data & Infra:** PostgreSQL, MongoDB, AWS, Docker, CI/CD
+**Frontend & Mobile**
+
+React · Next.js · React Native · TypeScript · JavaScript · Tailwind CSS
+
+**Backend**
+
+Node.js · NestJS · Express · REST · GraphQL · WebSockets
+
+**Data**
+
+PostgreSQL · Prisma · MongoDB · Redis
+
+**Cloud & DevOps**
+
+AWS · Docker · GitHub Actions · CI/CD
+
+**Testing & Quality**
+
+Jest · Playwright · Cypress · Automated Testing · Accessibility
 
 ---
 
-### Focus
+## ⚙️ Engineering Focus
 
-* Designing scalable frontend architecture
-* Shipping high-impact features end-to-end
-* Improving performance, DX, and code quality
+* Scalable full-stack architecture
+* Backend and API design
+* PostgreSQL and database optimization
+* Multi-tenant systems
+* Authentication and authorization
+* Real-time applications
+* React and React Native development
+* Performance and accessibility
+* Clean, maintainable TypeScript
+* Production systems and CI/CD
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=almustarik&hide_border=true)
+## 🧠 Currently Learning & Exploring
+
+* System design and distributed systems
+* Advanced PostgreSQL and query optimization
+* Backend architecture and scalability
+* Event-driven systems
+* AI-assisted software engineering
 
 ---
+
+## 📈 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=almustarik\&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in interesting engineering problems, open-source collaboration, and opportunities to build reliable software at scale.
+
+[Portfolio](https://almustarik-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/almustarik)
