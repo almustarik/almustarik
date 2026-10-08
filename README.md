@@ -1,70 +1,76 @@
 # Hi, I'm Al Mustarik 👋
 
-**Senior Software Engineer** focused on building scalable web, mobile, and backend systems with the TypeScript ecosystem.
+**Senior Software Engineer** focused on building scalable, reliable, and maintainable software across **web, mobile, and backend systems**.
 
-I work across the stack, from **frontend architecture and mobile applications to APIs, databases, real-time systems, and infrastructure**.
+I work primarily with the **TypeScript ecosystem**, with strong experience across frontend architecture, backend services, databases, real-time systems, and production infrastructure.
 
-[Portfolio](https://almustarik-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/almustarik) · [GitHub](https://github.com/almustarik)
+[Portfolio](https://almustarik-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/almustarik) · [GitHub](https://github.com/almustarik)
 
 ---
 
-## 🛠️ Tech Stack
+### 🧰 Tech Stack
+
+**Languages & Runtime**
+TypeScript · JavaScript · SQL · Python · Node.js
 
 **Frontend & Mobile**
+React · Next.js · React Native · Tailwind CSS · Redux Toolkit · Jotai
 
-React · Next.js · React Native · TypeScript · JavaScript · Tailwind CSS
+**Backend & APIs**
+NestJS · Express · REST · GraphQL · Apollo · WebSockets · Microservices
 
-**Backend**
-
-Node.js · NestJS · Express · REST · GraphQL · WebSockets
-
-**Data**
-
+**Databases & Data**
 PostgreSQL · Prisma · MongoDB · Redis
 
-**Cloud & DevOps**
-
+**Cloud & Infrastructure**
 AWS · Docker · GitHub Actions · CI/CD
 
 **Testing & Quality**
-
-Jest · Playwright · Cypress · Automated Testing · Accessibility
-
----
-
-## ⚙️ Engineering Focus
-
-* Scalable full-stack architecture
-* Backend and API design
-* PostgreSQL and database optimization
-* Multi-tenant systems
-* Authentication and authorization
-* Real-time applications
-* React and React Native development
-* Performance and accessibility
-* Clean, maintainable TypeScript
-* Production systems and CI/CD
+Jest · Playwright · Cypress · Automated Testing · Accessibility · Code Review
 
 ---
 
-## 🧠 Currently Learning & Exploring
+### 🏗️ Engineering
+
+* Designing scalable full-stack and backend architectures
+* Building secure APIs, authentication, RBAC, and multi-tenant systems
+* Designing relational data models and optimizing PostgreSQL queries
+* Building real-time features with WebSockets
+* Developing reusable frontend and mobile architectures
+* Improving application performance, reliability, and accessibility
+* Automating testing, CI/CD, and production workflows
+* Writing maintainable, strongly typed TypeScript
+* Debugging complex production issues and improving system reliability
+
+---
+
+### 🎯 Currently Focused On
 
 * System design and distributed systems
-* Advanced PostgreSQL and query optimization
+* Advanced PostgreSQL and database performance
 * Backend architecture and scalability
-* Event-driven systems
+* Event-driven and asynchronous systems
+* Production reliability and observability
 * AI-assisted software engineering
 
 ---
 
-## 📈 GitHub Activity
+### 💡 Engineering Principles
 
-![GitHub Streak](https://streak-stats.demolab.com?user=almustarik\&hide_border=true)
+> **Simple systems scale better than complicated ones.**
+
+I care about clear architecture, strong typing, data correctness, security, performance, accessibility, and developer experience.
+
+I prefer understanding the problem first, then choosing the simplest solution that can evolve with the product.
 
 ---
 
-## 🤝 Let's Connect
+### 📊 GitHub
 
-I'm always interested in interesting engineering problems, open-source collaboration, and opportunities to build reliable software at scale.
+---
 
-[Portfolio](https://almustarik-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/almustarik)
+### 🤝 Connect
+
+Open to interesting engineering problems, technical collaboration, and opportunities to build products that operate at scale.
+
+[Portfolio](https://almustarik-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/almustarik)
