@@ -1,8 +1,8 @@
 # Hi, I'm Al Mustarik 👋
 
-**Senior Software Engineer** focused on building scalable, reliable, and maintainable software across **web, mobile, and backend systems**.
+**Senior Software Engineer** focused on designing and building scalable, reliable, and maintainable software systems across **backend, web, and mobile**.
 
-I work primarily with the **TypeScript ecosystem**, with strong experience across frontend architecture, backend services, databases, real-time systems, and production infrastructure.
+I work primarily with the **TypeScript ecosystem**, with experience in system architecture, backend engineering, database design, API development, real-time systems, and production infrastructure. I care about building software that solves real problems and remains reliable as it grows.
 
 [Portfolio](https://almustarik-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/almustarik) · [GitHub](https://github.com/almustarik)
 
